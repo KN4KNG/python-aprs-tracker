@@ -10,7 +10,7 @@ To use this program, you'll need to have Python 3 installed on your system. You 
 
 Once you have Python installed, simply clone this repository to your local machine using Git:
     
-    git clone [https://github.com/your_username/python-aprs-tracker.git](https://github.com/your_username/python-aprs-tracker.git) 
+    git clone [https://github.com/KN4KNG/python-aprs-tracker.git](https://github.com/KN4KNG/python-aprs-tracker.git) 
 
 ## Usage
 
